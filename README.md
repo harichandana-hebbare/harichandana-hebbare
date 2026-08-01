@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hari Chandana Hebbare</h1>
-<h3 align="center">CS Undergrad @ GPREC ('28) 🚀 Current Focus: Building strong coding foundations from scratch. 🛠️ Currently Learning: Java, Data Structures & Algorithms (DSA), SQL. 📈 Goal: Turning daily practice into solid backend engineering skills.</h3>
+# 💫 About Me:
+🌱 I’m currently learning and experimenting with Java, DSA, html, CSS, JavaScript, SQL, Core concepts.<br><br>🤝 I’m looking for help with Java OOP Concepts & DSA Problem Solving<br><br>💬 Ask me about Java basics, Frontend basics, C programming, My learning journey so far<br><br>📫 How to reach me hebbareharichandana@gmail.com<br><br>⚡ Fun fact I can write code, but debugging is my real workout☕. Building in private with a No-days-off mindset⚡
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harichandana-hebbare" alt="harichandana-hebbare" /></a> </p>
 
-- 🌱 I’m currently learning **Java, DSA, SQL, Core concepts.**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hharichandana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hebbareharichandana@gmail.com) 
 
-- 🤝 I’m looking for help with **Java OOP Concepts & DSA Problem Solving**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=harichandana-hebbare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=harichandana-hebbare&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=harichandana-hebbare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Ask me about **Java basics, C programming, My learning journey so far**
+---
+[![](https://komarev.com/ghpvc/?username=harichandana-hebbare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **hebbareharichandana@gmail.com**
-
-- ⚡ Fun fact **I can write code, but debugging is my real workout☕. Building in private with a No-days-off mindset⚡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hharichandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hharichandana" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harichandana-hebbare&show_icons=true&locale=en&layout=compact" alt="harichandana-hebbare" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
